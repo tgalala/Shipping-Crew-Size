@@ -7,6 +7,6 @@ The project is organized as following: <br>
 4- Explainability (Basic) <br>
 <br>
 
-files:
-dataset: ship_info.csv
-notebook: ships.ipynb
+files: <br>
+dataset: ship_info.csv <br>
+notebook: ships.ipynb <br>
